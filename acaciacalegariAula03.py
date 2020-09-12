@@ -12,7 +12,7 @@ def absoluto(numero):
 
 
 #2- funcao q retorna quantas são as raizes reais de uma equacao do segundo grau importando a funcao delta da aula anterior
-from acaciacalegari114153997lista02 import delta
+from acaciacalegarilista02 import delta
 
 #funcao q calcula quantas sao as raizes reais
 def qntsraizes (a, b, c):
