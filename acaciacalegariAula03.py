@@ -1,5 +1,4 @@
 #Acacia C. Calegari
-#114153997
 #lista03
 
 #1- Funcao q retorna o valor absoluto d um numero fornecido
